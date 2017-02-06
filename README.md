@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+rails s
+
+go to
+
+http://localhost:3000/v1/simple
+
+{"custom_items":[{"name":"Custom object 0","some_attribute":"Lorem ipsum d...
